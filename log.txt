@@ -1,0 +1,7 @@
+[INFO] Server started
+[WARNING] Low disk space
+[ERROR] Connection failed
+[INFO] User logged in
+[INFO] User logged out
+[ERROR] Timeout while fetching data
+[WARNING] High memory usage
